@@ -1,7 +1,11 @@
 # Tugas Rutin 9 - Setup Laravel & MVC
 Oleh: Christian Arga Capah
 
-*(Tarik dan lepas screenshot Welcome Page Laravel milikmu ke baris ini)*
+<img width="1279" height="748" alt="image" src="https://github.com/user-attachments/assets/32dbb35c-5c28-4541-8018-747ddec7a718" />
+<img width="1279" height="750" alt="image" src="https://github.com/user-attachments/assets/38ba7e9c-2146-4de3-906c-60a7f352fa7a" />
+<img width="1279" height="751" alt="image" src="https://github.com/user-attachments/assets/90145579-89ab-4362-803d-e3098c9158c6" />
+<img width="1279" height="749" alt="image" src="https://github.com/user-attachments/assets/8e0146d4-30ca-41c6-a4e8-77491948a528" />
+
 
 ## Langkah Instalasi Proyek
 Berikut adalah langkah-langkah untuk menjalankan proyek Laravel ini di komputer lokal:
